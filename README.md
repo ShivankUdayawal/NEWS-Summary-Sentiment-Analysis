@@ -17,3 +17,6 @@ In the next few sections we will go through the whole process: Load the datasets
 
 ### Content :
 The dataset consists of 4515 examples and contains Author_name, Headlines, Url of Article, Short text, Complete Article. I gathered the summarized news from Inshorts and only scraped the news articles from Hindu, Indian times and Guardian. Time period ranges from febrauary to august 2017.
+
+### Data Source :
+https://www.kaggle.com/sunnysai12345/news-summary
