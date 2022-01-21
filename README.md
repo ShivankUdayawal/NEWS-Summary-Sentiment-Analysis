@@ -1,6 +1,8 @@
 # NEWS-Summary-Sentiment-Analysis
 ### Checking the Sentiment of the News
 
+![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/01.jpg)
+
 ## Text summarization using machine learning techniques
 ### A sequence-to-sequence model using an Encoder-Decoder with Attention
 The encoder-decoder model for recurrent neural networks is an architecture for sequence-to-sequence prediction problems. It comprised two parts:
