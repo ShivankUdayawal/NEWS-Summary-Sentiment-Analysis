@@ -42,3 +42,5 @@ https://www.kaggle.com/sunnysai12345/news-summary
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/17.jpg)
 
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/18.jpg)
+
+![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/19.jpg)
