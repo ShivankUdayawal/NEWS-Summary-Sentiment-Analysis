@@ -35,6 +35,8 @@ https://www.kaggle.com/sunnysai12345/news-summary
 
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/14.jpg)
 
+### Word Clouds
+
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/15.jpg)
 
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/16.jpg)
@@ -48,3 +50,7 @@ https://www.kaggle.com/sunnysai12345/news-summary
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/20.jpg)
 
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/21.jpg)
+
+### Sentiment
+
+![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/22.jpg)
