@@ -54,3 +54,5 @@ https://www.kaggle.com/sunnysai12345/news-summary
 ### Sentiment
 
 ![](https://github.com/ShivankUdayawal/NEWS-Summary-Sentiment-Analysis/blob/main/Data%20Visualization/22.jpg)
+
+*         most of the headlines form the author show Positive Sentiments
